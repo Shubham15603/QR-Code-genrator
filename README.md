@@ -3,7 +3,7 @@ The QR Code Generator is a simple and efficient tool designed to create QR codes
 
 Key Features:
 
-Real-time QR code generation
+Real-time QR code generation 
 
 Supports multiple data formats (URL, text, email, etc.)
 
